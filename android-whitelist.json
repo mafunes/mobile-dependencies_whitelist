@@ -38,7 +38,7 @@
 	            "name":"zxing-android-embedded"
 	    },
 		{
-	            "group":"com.\\facebook\\.android",
+	            "group":"com\\.facebook\\.android",
 	            "name":"facebook-android-sdk"
 	    },
 	    {

@@ -1,11 +1,11 @@
 {
     "whitelist": [
         {
-            "group":"com\\.android\\.support\\.constraint",
-            "name":"constraint-layout"
+	    "group":"com\\.f2prateek\\.rx\\.preferences",
+            "name":"rx-preferences"
         },
 	{
-            "group":"com\\.mercadopago\\.android\\.sdk",
+            "group":"com\\.mercadopago\\.sdk",
             "name":"sdk"
         }
     ]

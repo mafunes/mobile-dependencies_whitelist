@@ -23,6 +23,10 @@
 	{
             "group":"com\\.journeyapps",
             "name":"zxing-android-embedded"
+        },
+	{
+            "group":"com\\.mercadopago\\.android\\.ml_esc_manager",
+            "name":"ml_esc_manager"
         }
     ]
 }

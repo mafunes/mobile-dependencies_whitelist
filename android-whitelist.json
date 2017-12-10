@@ -11,6 +11,18 @@
 	{
             "group":"com\\.mercadopago\\.android\\.sdk",
             "name":"sdk"
+        },
+	{
+            "group":"com\\.google\\.zxing",
+            "name":"core"
+        },
+	{
+            "group":"me\\.leolin",
+            "name":"ShortcutBadger"
+        },
+	{
+            "group":"com\\.journeyapps",
+            "name":"zxing-android-embedded"
         }
     ]
 }

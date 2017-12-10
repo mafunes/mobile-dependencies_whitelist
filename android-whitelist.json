@@ -5,7 +5,7 @@
             "name":"rx-preferences"
         },
 	{
-            "group":"com\\.mercadopago\\.sdk",
+            "group":"com\\.mercadopago",
             "name":"sdk"
         },
 	{

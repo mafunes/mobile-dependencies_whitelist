@@ -27,6 +27,10 @@
 	{
             "group":"com\\.mercadopago\\.android\\.ml_esc_manager",
             "name":"ml_esc_manager"
+        },
+	{
+            "group":"com.\\facebook\\.android",
+            "name":"facebook-android-sdk"
         }
     ]
 }
